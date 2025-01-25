@@ -299,17 +299,18 @@
 <body>
     <!-- Navigation Bar -->
     <div class="navbar">
-        <div class="logo">
-            <span>Natural Milk Food</span>
-        </div>
-        <div class="nav-links">
-            <a href="#">Home</a>
-            <a href="Product.jsp">Product</a>
-            <a href="About.jsp">About</a>
-            <a href="Contact.jsp">Contact</a>
-        </div>
-        <button class="login-btn">Login</button>
+    <div class="logo">
+        <span>Natural Milk Food</span>
     </div>
+    <div class="nav-links">
+        <a href="Home.jsp">Home</a>
+        <a href="Product.jsp">Product</a>
+        <a href="About.jsp">About</a>
+        <a href="Contact.jsp">Contact</a>
+    </div>
+    <a href="Login.jsp" class="login-btn">Login</a>s
+</div>
+
 
     <!-- Main Content -->
     <div class="content">
